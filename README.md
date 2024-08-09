@@ -28,6 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Demo
 
-https://github.com/user-attachments/assets/356122f0-b7fb-4171-b712-c66f502ec71b
+https://github.com/user-attachments/assets/7e5b0a62-c05e-4700-ab95-cc9beb91a6ce
+
+
 
 
